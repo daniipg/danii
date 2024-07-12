@@ -1,7 +1,6 @@
-streamlit
-pandas
-matplotlib
-seaborn
-reportlab
-pypdf
-random
+streamlit==1.36.0
+pandas==2.2.2
+matplotlib==3.9.1
+seaborn==0.13.2
+reportlab==4.2.2
+pypdf==4.2.0
